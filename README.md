@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shaizy 👋
 
-<!--
-**Shaizy-S/Shaizy-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS undergrad[Final Year Engineering Student] | Python • C++ • Web • ML/AI • Cloud | Open Source Contributor**
 
-Here are some ideas to get you started:
+- Built: Lost & Found App (Android), NutriGuide (AI chatbot), BreastCareInsight (AI for mammograms), Adventure Avenues (stay portal).
+- Interests: ML, GenAI apps, Cloud Computing, Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick Links
+- Email: shasars9@gmail.com
+- Resume: https://tinyurl.com/m4r8e7dv
+- Highlights below ⬇️
+
+## Pinned Work
+- Lost & Found App – Android + Firebase
+- NutriGuide – Python + NLP
+- BreastCareInsight – AI Mammogram Analysis (XAI)
+- Adventure Avenues – Web-based
+
+## Recent Open-Source PRs
+- PR: <paste link when you open it today>
+- PR: <paste link>
+- PR: <paste link>
+
+## Skills
+Python, C++, Java, Android, Flask, SQL, Git/GitHub, Azure Cloud, GCP, GenAI, AI-ML
+
+---
