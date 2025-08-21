@@ -16,11 +16,6 @@
 - BreastCareInsight – AI Mammogram Analysis (XAI)
 - Adventure Avenues – Web-based
 
-## Recent Open-Source PRs
-- PR: <paste link when you open it today>
-- PR: <paste link>
-- PR: <paste link>
-
 ## Skills
 Python, C++, Java, Android, Flask, SQL, Git/GitHub, Azure Cloud, GCP, GenAI, AI-ML
 
