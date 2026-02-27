@@ -51,7 +51,7 @@ HTML • CSS • JavaScript • React • Django • Android
 
 ## 📫 Connect With Me
 📧 Email: shasars9@gmail.com  
-📄 Resume: https://tinyurl.com/m4r8e7dv  
+📄 Resume: https://tinyurl.com/te5brxy2  
 
 ---
 
